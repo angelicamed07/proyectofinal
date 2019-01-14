@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+
+img{
+	height:320px;
+	width: 320px;
+	padding: 20px;
+	
+}
+
+ul{
+
+	color: #A41914;
+	font-family: 'Noto Serif', serif ;
+	font-size: 130%;
+
+
+}

@@ -1,0 +1,303 @@
+body{
+  background-color: black;
+}
+ul{
+
+	color: #A41914;
+	font-family: 'Noto Serif', serif ;
+	font-size: 130%;
+
+
+}
+
+
+div{
+	margin:0px;
+	padding: 0px;
+	color:white;
+	font-family: 'Noto Serif', serif;
+	font-size: 118%;
+}
+
+#imagen1{
+	   	width:550px;
+		height: 350px;
+		background-image: url(../imagen/jb.jpg);
+		float: right ;
+		margin-right: 20mm;
+	}
+
+#info{
+	position: absolute;
+	overflow: hidden;
+	width: 550px;
+	height:350px;
+	background-color: rgba(31,31,31,0.9);
+	-webkit-transition:opacity 0.2s;
+	opacity: 0;
+	
+}
+
+div#imagen1:hover div#info{
+	opacity: 1;
+}
+
+
+
+#Headline{
+	position: absolute;
+	margin-top: 20px;
+	-webkit-transition: margin 0.2s;
+	margin-left: -70px;
+	text-align: center;
+
+	
+}
+
+div#imagen1:hover p#Headline{
+
+	margin-left: 70px;
+
+
+}
+
+#presentacion{
+	margin: auto;
+
+	width: 550px;
+	text-align: center;
+	-webkit-transition: margin 0.3s;
+ 	margin-top:300px;
+
+}
+
+div#imagen1:hover p#presentacion{
+margin-top: 70px;
+
+}
+<-------------------------------------------------->
+div{
+	margin:0px;
+	padding: 0px;
+	color:white;
+	font-family: 'Noto Serif', serif;
+	font-size: 118%;
+}
+
+#integ{
+	   	width:550px;
+		height: 350px;
+		background-image: url(../imagen/jackson.jpg);
+		margin-left: 20mm;
+	}
+div#integ:hover div#info{
+	opacity: 1;
+}
+
+div#integ:hover p#Headline{
+
+	margin-left: 70px;
+
+}
+
+div#integ:hover p#presentacion{
+margin-top: 70px;
+
+}
+<-------------------------------------------------->
+
+div{
+	margin:0px;
+	padding: 0px;
+	color:white;
+	font-family: 'Noto Serif', serif;
+	font-size: 118%;
+}
+
+#junior{
+	   	width:550px;
+		height:350px;
+		background-image: url(../imagen/jr1.jpg);
+		float: right;
+		margin-right: 20mm;
+	}
+
+div#junior:hover div#info{
+	opacity: 1;
+}
+
+div#junior:hover p#Headline{
+
+	margin-left: 70px;
+
+}
+
+div#junior:hover p#presentacion{
+margin-top: 70px;
+
+}
+
+<-------------------------------------------------->
+
+
+div{
+	margin:0px;
+	padding: 0px;
+	color:white;
+	font-family: 'Noto Serif', serif;
+	font-size: 118%;
+}
+
+#bambam{
+	   	width:550px;
+		height:350px;
+		background-image: url(../imagen/bambam.jpg);
+		margin-left: 20mm;
+		
+	}
+
+div#bambam:hover div#info{
+	opacity: 1;
+}
+
+div#bambam:hover p#Headline{
+
+	margin-left: 70px;
+
+}
+
+div#bambam:hover p#presentacion{
+margin-top: 70px;
+
+}
+<-------------------------------------------------->
+
+
+div{
+	margin:0px;
+	padding: 0px;
+	color:white;
+	font-family: 'Noto Serif', serif;
+	font-size: 118%;
+}
+
+#Youngjae{
+	   	width:550px;
+		height:350px;
+		background-image: url(../imagen/Youngjae.jpg);
+		float: right;
+		margin-right: 20mm;
+	}
+
+div#Youngjae:hover div#info{
+	opacity: 1;
+}
+
+div#Youngjae:hover p#Headline{
+
+	margin-left: 70px;
+
+}
+
+div#Youngjae:hover p#presentacion{
+margin-top: 70px;
+
+}
+<-------------------------------------------------->
+
+
+div{
+	margin:0px;
+	padding: 0px;
+	color:white;
+	font-family: 'Noto Serif', serif;
+	font-size: 118%;
+}
+
+#Yugyeom{
+	   	width:550px;
+		height:350px;
+		background-image: url(../imagen/Yugyeom.jpg);
+		margin-left:20mm;
+		
+	}
+
+div#Yugyeom:hover div#info{
+	opacity: 1;
+}
+
+div#Yugyeom:hover p#Headline{
+
+	margin-left: 70px;
+
+}
+
+div#Yugyeom:hover p#presentacion{
+margin-top: 70px;
+
+}
+<-------------------------------------------------->
+
+
+div{
+	margin:0px;
+	padding: 0px;
+	color:white;
+	font-family: 'Noto Serif', serif;
+	font-size: 110%;
+
+}
+
+#Mark{
+	   	width:550px;
+		height:350px;
+		background-image: url(../imagen/mark.jpg);
+
+		
+		
+	}
+
+	#hegi{
+	
+	overflow: hidden;
+	width: 550px;
+	height:350px;
+	background-color: rgba(31,31,31,0.9);
+	-webkit-transition:opacity 0.2s;
+	opacity: 0;
+	}
+
+
+
+div#Mark:hover div#hegi{
+	opacity: 1;
+
+}
+
+#portal{
+
+	margin-top: 20px;
+	-webkit-transition: margin 0.2s;
+	margin-left: -70px;
+	text-align: center;
+
+	
+}
+
+div#Mark:hover p#hegi{
+
+	margin-left: 70px;
+
+}
+
+div#Mark:hover p#presentacion{
+margin-top: 50px;
+
+}
+
+<-------------------------------------------------->
+
+
+
+
+

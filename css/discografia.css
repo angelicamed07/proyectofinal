@@ -1,0 +1,68 @@
+body{
+  background-color: black;
+}
+
+ul{
+
+  color: #A41914;
+  font-family: 'Noto Serif', serif ;
+  font-size: 130%;
+
+
+}
+h1{
+  color:white;
+  font-family: 'Noto Serif', serif ;
+  font-size: 200%;
+  text-align-last: center;
+}
+
+
+caption {
+  color:white; 
+  font-size:20px;
+  text-align-last: center;
+} 
+ td {
+  color:black; 
+  font-size:14px;
+}
+th {
+  color:black;
+ font-size:14px;
+} 
+
+
+/* Tabla */
+table, td, th {
+  border:1px solid black;
+  text-align: center;
+  background:lightblue;
+  border-spacing: 2px;
+
+
+}
+table {
+  border-collapse:collapse;
+  margin-left: 400px;
+
+  }
+
+td, th {
+  padding:10px; 
+}
+thead {
+  background:black;
+}
+tfoot {
+  background:lightblue;
+  border-spacing: 2px;
+
+}
+
+
+img{
+margin-right: 10px;
+padding: auto;
+
+}

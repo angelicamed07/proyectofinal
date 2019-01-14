@@ -1,0 +1,33 @@
+ul{
+
+	color: #A41914;
+	font-family: 'Noto Serif', serif ;
+	font-size: 130%;
+
+
+}
+body{
+  background-color: black;
+
+}
+
+h1{
+	color: white;
+	font-family: 'Noto Serif', serif ;
+	font-size: 30PX;
+	text-align-last: center;
+}
+p{
+
+	color:black;
+	font-family: 'Noto Serif', serif ;
+	font-size: 150%;
+	text-align-last: center;
+	background-color: lightblue;
+	shape-margin: 10px;
+
+}
+h3{
+	color:white;
+
+}
